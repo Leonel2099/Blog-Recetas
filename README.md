@@ -2,6 +2,8 @@
 
 ## Description
 Proyect with React-Vite. Practice whit component, events, component's lifecycle, etc.
+![image](https://github.com/Leonel2099/Blog-Recetas/assets/91150997/87a6a0ab-7876-47ce-9200-ac00083c4097)
+
 ### Technologies used
 [![react][react]][react-url]
 [![vite][vite]][vite-url]
